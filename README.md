@@ -2,8 +2,9 @@
 
 1. 把时间变成分组变量
 2. 加入一些协变量
-    1. 蒸发量 （用学校账号google drive打开）https://drive.google.com/file/d/12CaYX6Rrp8eXvfacSI6Xf48BRWY7Snu2/view?usp=sharing 
-    2. CO2浓度
+    1. 蒸发量 （用学校账号google drive打开）https://drive.google.com/file/d/12CaYX6Rrp8eXvfacSI6Xf48BRWY7Snu2/view?usp=sharing
+       update: 全球的monthly数据已经整理好在GLEAM_global_monthly_evaporation.csv了
+    3. CO2浓度
 
 提纲：
 
