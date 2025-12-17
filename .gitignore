@@ -1,0 +1,8 @@
+# Raw GLEAM data (do not upload)
+E/
+
+# Optional: Jupyter cache
+.ipynb_checkpoints/
+
+# Optional: system files
+.DS_Store
