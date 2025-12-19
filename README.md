@@ -1,6 +1,4 @@
-# STAT 5205 Final Project
-
-**Applied Linear Regression Analysis of Global Mean Sea Level and Temperature Anomalies**
+# Applied Linear Regression Analysis of Global Mean Sea Level and Temperature Anomalies
 
 This repository contains the full code and outputs for the STAT 5205 final project at Columbia University.
 The project analyzes the relationship between **monthly Global Mean Sea Level (GMSL)** and **global temperature anomalies**, with a focus on robustness, seasonality, decade heterogeneity, and multicollinearity.
